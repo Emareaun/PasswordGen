@@ -1,5 +1,4 @@
 // Assignment code here
-generateBtn.addEventListener("click", writePassword);
 
 // Get references to the #generate element
 var generateBtn = document.querySelector("#generate");
